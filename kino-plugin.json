@@ -13,9 +13,7 @@
   },
   "hosts": ["localhost"],
   "capabilities": [
-    "tracking",
-    "home",
-    "resolve"
+    "tracking"
   ],
   "icon": "icon.png"
 }
