@@ -3,7 +3,7 @@
   "name": "Mi Historial",
   "version": "1.0.0",
   "apiVersion": 7,
-  "author": "LifReizei",
+  "author": "TuNombre",
   "description": "Guarda y muestra tu progreso de series y películas de forma local.",
   "langs": ["es"],
   "entry": "plugin.js",
@@ -11,9 +11,10 @@
   "section": {
     "label": "Mi Historial"
   },
-  "hosts": ["any"],
+  "hosts": [],
   "capabilities": [
     "tracking",
+    "resolve",
     "home"
   ],
   "icon": "icon.png"
