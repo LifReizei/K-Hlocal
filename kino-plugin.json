@@ -1,0 +1,20 @@
+{
+  "id": "historial-local",
+  "name": "Mi Historial",
+  "version": "1.0.0",
+  "apiVersion": 7,
+  "author": "LifReizei",
+  "description": "Guarda y muestra tu progreso de series y películas de forma local.",
+  "langs": ["es"],
+  "entry": "plugin.js",
+  "color": "#3498DB",
+  "section": {
+    "label": "Mi Historial"
+  },
+  "capabilities": [
+    "tracking",
+    "section",
+    "resolve"
+  ],
+  "icon": "icon.png"
+}
