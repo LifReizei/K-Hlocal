@@ -13,7 +13,8 @@
   },
   "hosts": ["any"],
   "capabilities": [
-    "tracking"
+    "tracking",
+    "home"
   ],
   "icon": "icon.png"
 }
