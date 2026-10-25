@@ -11,6 +11,7 @@
   "section": {
     "label": "Mi Historial"
   },
+  "hosts": [],
   "capabilities": [
     "tracking",
     "section",
