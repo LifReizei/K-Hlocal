@@ -14,7 +14,7 @@
   "hosts": [],
   "capabilities": [
     "tracking",
-    "section",
+    "home",
     "resolve"
   ],
   "icon": "icon.png"
